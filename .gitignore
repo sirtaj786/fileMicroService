@@ -3,3 +3,4 @@
 .env.local     # Ignores local overrides
 *.env          # Ignores all .env files (e.g., .env.prod, .env.dev)
 .gitignore
+// node_modules/  # Ignores the node_modules directory

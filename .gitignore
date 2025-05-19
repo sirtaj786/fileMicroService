@@ -1,1 +1,5 @@
-.env
+# .gitignore
+.env           # Ignores the .env file
+.env.local     # Ignores local overrides
+*.env          # Ignores all .env files (e.g., .env.prod, .env.dev)
+.gitignore
